@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sprint-boot-app
-        image: shashiakula/demo-jenkin-cicd:5
+        image: shashiakula/demo-jenkin-cicd:6
         ports:
         - containerPort: 8080
